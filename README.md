@@ -1,6 +1,6 @@
 # Welcome to My Profile!  
 
-![Dark Tech GIF](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)  
+<img align="center" height="400" src="https://www.techsolutioners.com/wp-content/uploads/2022/09/website-develop.gif"  />
 
 ## Hey there ! I'm Navya Hebbar
 ### <br>I'm a Student at RV College of Engineering (RVCE), Class of 2027. I love exploring the intersection of technology, creativity, and problem-solving. Whether it's Data Science, Web Development,AI, UI designs, or IoT, I’m always eager to build and learn!
