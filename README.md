@@ -1,4 +1,7 @@
-# About Me:
+# Welcome to My Profile! 🚀
+
+![Hacker Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## Hey there ! I'm Navya Hebbar
 ### <br>I'm a Student at RV College of Engineering (RVCE), Class of 2027. I love exploring the intersection of technology, creativity, and problem-solving. Whether it's Data Science, Web Development,AI, UI designs, or IoT, I’m always eager to build and learn!
 
