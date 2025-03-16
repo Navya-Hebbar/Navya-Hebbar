@@ -2,6 +2,7 @@
 <p align="center">
 <img height="400" src="https://www.techsolutioners.com/wp-content/uploads/2022/09/website-develop.gif"  />
 </p>
+
 ## Hey there ! I'm Navya Hebbar
 ### <br>I'm a Student at RV College of Engineering (RVCE), Class of 2027. I love exploring the intersection of technology, creativity, and problem-solving. Whether it's Data Science, Web Development,AI, UI designs, or IoT, I’m always eager to build and learn!
 
